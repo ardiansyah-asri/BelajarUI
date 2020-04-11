@@ -1,0 +1,2 @@
+rootProject.name='Belajar UI'
+include ':app'
